@@ -1,0 +1,21 @@
+fields:
+    info:
+        type: partial
+        path: $/asyntai/chatbot/partials/_connect.htm
+        context: settings
+    site_id:
+        label: Site ID
+        span: auto
+        type: text
+        invisible: true
+    script_url:
+        label: Script URL
+        span: auto
+        type: text
+        default: https://asyntai.com/static/js/chat-widget.js
+        invisible: true
+    account_email:
+        label: Account Email
+        span: auto
+        type: text
+        invisible: true
