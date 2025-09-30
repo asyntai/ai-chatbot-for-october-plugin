@@ -1,0 +1,8 @@
+{
+  "name": "asyntai/chatbot-plugin",
+  "type": "october-plugin",
+  "description": "Asyntai AI Chatbot for October CMS.",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
