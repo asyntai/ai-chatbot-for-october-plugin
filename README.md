@@ -10,6 +10,7 @@ Create and launch AI assistant/chatbot for your OctoberCMS website in minutes. I
 5. Chatbot gets enabled on your website
 6. Set it up and review chatlogs at [Asyntai.com/dashboard](https://asyntai.com/dashboard)
 
+**Note: Alternatively, if you don't want to use a plugin, you can also get a JavaScript snippet at asyntai.com/dashboard and manually insert it into your web pages.**
 
 Don’t have an Asyntai account? Create one for free at **[Asyntai.com](https://asyntai.com/auth)**
 
