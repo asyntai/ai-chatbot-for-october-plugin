@@ -1,2 +1,7 @@
 1.0.0:
     - Initial release of Asyntai AI Chatbot
+1.1.0:
+    - The chatbot can now read your published pages directly, so its answers stay up to date (optional)
+    - Improvements to the plugin settings screen
+    - Improvements to how the chat widget loads
+    - create_state_table.php

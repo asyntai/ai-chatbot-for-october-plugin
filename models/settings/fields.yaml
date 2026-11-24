@@ -1,4 +1,1 @@
-fields:
-    info:
-        type: partial
-        path: $/asyntai/chatbot/partials/_connect.htm
+fields: {}

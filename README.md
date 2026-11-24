@@ -22,6 +22,8 @@ Don’t have an Asyntai account? Create one for free at **[Asyntai.com](https://
 
 •	**Knows your website**: Customized just for you; it follows your instructions.
 
+•	**Reads your pages directly**: Optionally shares your published pages with the chatbot, so its answers stay up to date.
+
 •	**Works in all languages**: Automatically detects and answers in the visitor’s language.
 
 •	**Fast responses (1–3s)**: Keeps customers from bouncing.
